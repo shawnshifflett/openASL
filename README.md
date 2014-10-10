@@ -38,7 +38,8 @@ within its own directory structure:
 <ul>
         <li>Specific topics will be sorted and organized within their own
         directory (e.g. all topics regarding portage will be located in the Portage directory)</li>
-        <li>Player_Aids: Player aids will be sorted and organized within their own directory underneath the Player_Aids folder.
+        <li>Player_Aids: Player aids will be sorted and organized within their own directory underneath the Player_Aids folder.</li>
+        <li>Organization_Guides: Chit, map, and overlay organizational guides will be sorted and organized within their own directory underneath the Organization_Guides folder.</li>
         <li>Scenario_Notes: Scenario notes, scenario help files, scenario tutorials, and scenario FAQs will we be sorted by name, and placed within their own
 directory underneath the Scenario_Notes folder.</li>
         <li>Scenarios: Individual scenarios will be

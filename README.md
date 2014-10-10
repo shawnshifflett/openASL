@@ -1,4 +1,4 @@
-openASL README
+<b>openASL README</b>
 
 
 The openASL project is an open source, collaborative guide to learn
@@ -14,7 +14,7 @@ existing material, or forking this master project in an attempt to create
 even more customized Advanced Squad Leader guides and player aids.
 
 
-What is ASL?
+<b>What is ASL?</b>
 
 
 Advanced Squad Leader has been the standard in tactical combat since
@@ -31,7 +31,7 @@ Learn more about Advanced Squad Leader by visiting:
 http://www.multimanpublishing.com
 
 
-Trademark and Copyright Information
+<b>Trademark and Copyright Information</b>
 
 
 Advanced Squad Leader is a trademark of Avalon hill Games, Inc., and

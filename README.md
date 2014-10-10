@@ -53,6 +53,7 @@ Files within these directores will fall under these standardized file formats wh
 possible:
 
 <ul>
+        <li><i>filename.md</i> - GitHub's markdown format</li>
         <li><i>filename.txt</i> - Plain-text formatting</li>
         <li><i>filename.tex</i> - LaTeX formatting</li>
         <li><i>filename.dvi</i> - LaTeX compiled file</li>

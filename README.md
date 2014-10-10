@@ -30,6 +30,40 @@ Learn more about Advanced Squad Leader by visiting:
 
 http://www.multimanpublishing.com
 
+<b>File Organization and Structure.</b>
+
+To make things as cleanly simple as possible every topic will be organized
+within its own directory structure: 
+
+<ul>
+        <li>Specific topics will be sorted and organized within their own
+        directory (e.g. all topics regarding portage will be located in the Portage directory)</li>
+        <li>Scenario_Notes: Scenario notes, sceario help files, scenario tutorials, and scenario FAQs will we be sorted by name, and placed within their own
+directory underneath the Scenario_Notes folder.</li>
+        <li>Scenarios: Individual scenarios will be
+placed within their own directory underneath the Scenarios folder.</li>
+        <li>Tutorials: Tutorials will be sorted by name, and placed within their own directory underneath the
+Tutorials folder.</li>
+</ul>
+
+When uploading new files please try to use the most descriptive filename as
+possible, and avoid using blank spaces between words in the filename.
+
+Files within these directores will fall under these standardized file formats when
+possible:
+
+<ul>
+        <li><i>filename.txt</i> - Plain-text formatting</li>
+        <li><i>filename.tex</i> - LaTeX formatting</li>
+        <li><i>filename.dvi</i> - LaTeX compiled file</li>
+        <li><i>filename.pdf</i> - Portable Document Format</li>
+        <li><i>filename.xls</i> - Microsoft Excel formatting</li>
+        <li><i>filename.doc</i> - Microsoft Word formatting. Note, please try
+        and restrict the use of Microsoft Word whenever possible.</li>
+        <li><i>filename.nfo</i> - Plain-text file describing what topic is
+        being discussed in detail.</li>
+   
+</ul>
 
 <b>Trademark and Copyright Information</b>
 

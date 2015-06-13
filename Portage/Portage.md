@@ -17,3 +17,6 @@ Support Weapons have a Portage Point value that reflects their weight and manuev
 
 ####Portage Strategy
 When planning moves with heavy weapons, you should always consider the impact of your portage on your movement. For intance, even a 3 PP MMG can significantly hamper a unit's movement if the unit decides to double time. The -1 IPC penalty for being CX would immediately eat up half the 2 MF benefit you would get from declaring a double time move.
+
+Remember, too, that a unit cannot carry with it SW in excess of its IPC when
+routing away from a Location. So, if you have a HMG nest that is compromised, you'll often be forced to leave the machine gun behind when you rout, making it available for capture by your opponent.

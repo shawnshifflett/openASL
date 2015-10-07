@@ -19,7 +19,7 @@ even more customized Advanced Squad Leader guides and player aids.
 
 Advanced Squad Leader has been the standard in tactical combat since
 its 1985 debut. A thriving community of ASL players extends throughout
-the world. No other game matches its flexability, scope, and challange.
+the world. No other game matches its flexability, scope, and challenge.
 Players can simulate nearly any battle in any theater up to the battalion
 level. Maneuver 10-man squads, 5-man half squads, and individual leaders
 and vehicles across a combination of over 68 geomorphic map boards

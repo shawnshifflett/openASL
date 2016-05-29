@@ -1,7 +1,7 @@
 <b>openASL README</b>
 
 
-The openASL project is an open source, collaborative guide to learn
+The openASL project is an open source, collaborative effort providing tools and resources to help both play and learn
 Advanced Squad Leader (ASL). This project was originally created by
 Ross Mulcare due to his finding that the available ASL materials were
 lacking in one way or another. The materials in this project are meant

@@ -65,6 +65,7 @@ possible:
         and restrict the use of Microsoft Word whenever possible.</li>
         <li><i>filename.nfo</i> - Plain-text file describing what topic is
         being discussed in detail.</li>
+        <li><i>filename.py</i> - Python script</li>
    
 </ul>
 
